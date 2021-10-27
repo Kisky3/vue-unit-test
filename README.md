@@ -1,4 +1,4 @@
-# Vue Unit Test
+# Vue Unit Test 🌳
 A sample of Vue unit test.
 
 Blog: https://kisky3.github.io/2021/09/16/VueTest/
